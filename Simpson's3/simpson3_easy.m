@@ -8,7 +8,7 @@ clear all;
 close all;
 clc;
 
-a = input('Enter the function in the form of variable x:','s');       %user defines the function
+a = input('Enter the function in the form of variable x:','s');       % user defines the function
 f = inline(a);
 
 a = input('Enter the lower limit of the integral:'); %  starting point or lower limit of the area
