@@ -30,7 +30,7 @@ b = float(input('Please provide the upper limit:')); #  end point or upper limit
 s  = (f(a) + f(b))/2.0
 h = float((b - a)/n) # to find step size or height of trapezium
 	
-for i in range(1,(n-1)):
+for i in range(1,n):
 	s = s + f(a + i*h)
 
 # defining the area
