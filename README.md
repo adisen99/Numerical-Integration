@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 
 ### Included files
-There are in total 3 files in the repository, each following a different algorithms, namely **Trapezoidal** Rule and the **two Simpson's Rules**. Code for the **Legendre-Gauss Quadrature formula** will be added soon. Each folder contains **MATLAB or .m** and **Python or .py**. So you can use either syntax and program/language to numerically determine the roots of an equation/function using the given Methods or algorithms.
+There are in total 4 files in the repository, each following a different algorithms, namely **Monte Carlo**, **Trapezoidal** Rule and the **two Simpson's Rules**. Code for the **Legendre-Gauss Quadrature formula** will be added soon. Each folder contains **MATLAB or .m** and **Python or .py**. So you can use either syntax and program/language to numerically determine the roots of an equation/function using the given Methods or algorithms.
 
 To access the files you can either Download the zip file or use the following command from your terminal
 
